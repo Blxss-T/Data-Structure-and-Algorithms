@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.30)
+project(DSA_cpp)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(DSA_cpp main.cpp
+        Calculator.cpp
+        constant.cpp
+        Omanipulator.cpp
+        Maths.cpp
+        hypoth.cpp
+        PairHypo.cpp
+        quadratic.cpp
+        addition.cpp
+        swap.cpp
+        sphere_volume.cpp
+        additionb.cpp
+        insertion.cpp
+        deletion.cpp
+)
