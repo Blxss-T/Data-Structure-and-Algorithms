@@ -17,4 +17,5 @@ add_executable(DSA_cpp main.cpp
         additionb.cpp
         insertion.cpp
         deletion.cpp
+        oddProduct.cpp
 )
