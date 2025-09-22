@@ -18,4 +18,8 @@ add_executable(DSA_cpp main.cpp
         insertion.cpp
         deletion.cpp
         oddProduct.cpp
+        cmake-build-debug/even.cpp
+        cmake-build-debug/prime.cpp
+        arrays.cpp
+        arrrayExercise.cpp
 )

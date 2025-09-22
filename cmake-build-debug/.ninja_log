@@ -1,8 +1,8 @@
 # ninja log v6
-4	386	7801040233612748	build.ninja	62540a2400f7bc2
+4	386	7802392924875394	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
-85	207	7797594583555544	DSA_cpp.exe	97961c0fc53c3f8f
+616	733	7802381900896246	DSA_cpp.exe	863a040551da08e5
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 2	42	7796259290354732	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
@@ -14,4 +14,9 @@
 28	143	7797087561760694	CMakeFiles/DSA_cpp.dir/sphere_volume.cpp.obj	7137094fed5881ba
 34	196	7797087561822019	CMakeFiles/DSA_cpp.dir/additionb.cpp.obj	e618585fa81bc4c0
 6	84	7797594582766556	CMakeFiles/DSA_cpp.dir/insertion.cpp.obj	133efb4d15741404
-9	549	7797594375438900	CMakeFiles/DSA_cpp.dir/deletion.cpp.obj	54f9dd45668086e0
+45	134	7802318840169856	CMakeFiles/DSA_cpp.dir/deletion.cpp.obj	54f9dd45668086e0
+19	1121	7802387811214743	CMakeFiles/DSA_cpp.dir/arrrayExercise.cpp.obj	a79698dbac859a67
+48	138	7802318840202140	CMakeFiles/DSA_cpp.dir/oddProduct.cpp.obj	33baf183c3adc342
+7	108	7802380714771073	CMakeFiles/DSA_cpp.dir/even.cpp.obj	ae43987142f92479
+9	615	7802381894831470	CMakeFiles/DSA_cpp.dir/arrays.cpp.obj	d973efd6eb0fdb16
+5	66	7802381784629748	CMakeFiles/DSA_cpp.dir/prime.cpp.obj	5cdb0588ed536b6e
