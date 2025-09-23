@@ -1,15 +1,15 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-4	386	7803200475275354	build.ninja	62540a2400f7bc2
+4	386	7803227493273601	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
-92	235	7803177452693979	DSA_cpp.exe	687b6c6474088b40
+542	678	7803206647484830	DSA_cpp.exe	64677e91e208202
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
 11	41	7796337800328371	CMakeFiles/DSA_cpp.dir/Omanipulator.cpp.obj	6b990165f748dded
 55	149	7797027224831077	CMakeFiles/DSA_cpp.dir/quadratic.cpp.obj	9f9a0f6a33c1c0f7
-18	686	7803177186340442	CMakeFiles/DSA_cpp.dir/incree-decreement.cpp.obj	e544f9f97ccad596
+7	93	7803203963081097	CMakeFiles/DSA_cpp.dir/incree-decreement.cpp.obj	e544f9f97ccad596
 23	57	7797044687130117	CMakeFiles/DSA_cpp.dir/PairHypo.cpp.obj	e7056fc239e2f387
 9	98	7797558236518279	CMakeFiles/DSA_cpp.dir/addition.cpp.obj	35b4c40d8c8f89d7
 27	123	7797063520832782	CMakeFiles/DSA_cpp.dir/swap.cpp.obj	6dce517116bc5653
@@ -25,10 +25,11 @@
 5	66	7802381784629748	CMakeFiles/DSA_cpp.dir/prime.cpp.obj	5cdb0588ed536b6e
 8	91	7803177451860988	CMakeFiles/DSA_cpp.dir/pointera.cpp.obj	f09f8295547deb77
 11	111	7803177186270728	CMakeFiles/DSA_cpp.dir/mathOper.cpp.obj	9692a79ec5d05558
-14	738	7803203766741470	CMakeFiles/DSA_cpp.dir/ArrayCOnt.cpp.obj	ace521f708cf067b
-7	93	7803203963081097	CMakeFiles/DSA_cpp.dir/incree-decreement.cpp.obj	e544f9f97ccad596
-94	243	7803203963951657	DSA_cpp.exe	64677e91e208202
-6	587	7803204353416287	CMakeFiles/DSA_cpp.dir/ArrayCOnt.cpp.obj	ace521f708cf067b
-587	717	7803204359219962	DSA_cpp.exe	64677e91e208202
 7	541	7803206642146320	CMakeFiles/DSA_cpp.dir/ArrayCOnt.cpp.obj	ace521f708cf067b
-542	678	7803206647484830	DSA_cpp.exe	64677e91e208202
+8	115	7803229051193692	CMakeFiles/DSA_cpp.dir/ArrayCOnt.cpp.obj	ace521f708cf067b
+16	765	7803229051266808	CMakeFiles/DSA_cpp.dir/recursive.cpp.obj	1351c76d4097ab7a
+765	946	7803229058760672	DSA_cpp.exe	e749c2c5a8857473
+10	676	7803229369829493	CMakeFiles/DSA_cpp.dir/recursive.cpp.obj	1351c76d4097ab7a
+677	888	7803229376494376	DSA_cpp.exe	e749c2c5a8857473
+8	639	7803229933128112	CMakeFiles/DSA_cpp.dir/recursive.cpp.obj	1351c76d4097ab7a
+640	797	7803229939456639	DSA_cpp.exe	e749c2c5a8857473
