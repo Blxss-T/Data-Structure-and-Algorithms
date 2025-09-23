@@ -22,4 +22,10 @@ add_executable(DSA_cpp main.cpp
         cmake-build-debug/prime.cpp
         arrays.cpp
         arrrayExercise.cpp
+        arrayFunctions.cpp
+        arrayFuncb.cpp
+        pointera.cpp
+        mathOper.cpp
+        incree-decreement.cpp
+        ArrayCOnt.cpp
 )
