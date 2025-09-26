@@ -29,4 +29,5 @@ add_executable(DSA_cpp main.cpp
         incree-decreement.cpp
         ArrayCOnt.cpp
         cmake-build-debug/recursive.cpp
+        EvenPrimeProduct.cpp
 )
