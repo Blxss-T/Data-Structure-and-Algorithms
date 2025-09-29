@@ -32,4 +32,5 @@ add_executable(DSA_cpp main.cpp
         EvenPrimeProduct.cpp
         fibonacci.cpp
         cmake-build-debug/factorial.cpp
+        cmake-build-debug/recursiveSum.cpp
 )
