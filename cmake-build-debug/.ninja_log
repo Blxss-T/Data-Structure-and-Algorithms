@@ -1,9 +1,9 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-2	187	7808439581951567	build.ninja	62540a2400f7bc2
+1	183	7808441479967163	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
-300	369	7808432882203226	DSA_cpp.exe	bfca7bc686c21723
+304	386	7808439585154524	DSA_cpp.exe	676845c290aa219c
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
@@ -22,6 +22,7 @@
 7	108	7802380714771073	CMakeFiles/DSA_cpp.dir/even.cpp.obj	ae43987142f92479
 5	38	7803141961541339	CMakeFiles/DSA_cpp.dir/arrays.cpp.obj	d973efd6eb0fdb16
 3	34	7803147873927777	CMakeFiles/DSA_cpp.dir/arrayFunctions.cpp.obj	22f21b4a2bf18409
+4	304	7808439582170760	CMakeFiles/DSA_cpp.dir/recursiveSum.cpp.obj	1497d41648e6885c
 5	66	7802381784629748	CMakeFiles/DSA_cpp.dir/prime.cpp.obj	5cdb0588ed536b6e
 8	91	7803177451860988	CMakeFiles/DSA_cpp.dir/pointera.cpp.obj	f09f8295547deb77
 11	111	7803177186270728	CMakeFiles/DSA_cpp.dir/mathOper.cpp.obj	9692a79ec5d05558
@@ -29,8 +30,9 @@
 3	56	7808432879234051	CMakeFiles/DSA_cpp.dir/fibonacci.cpp.obj	f21160cc1916ae0b
 39	258	7805327883130482	CMakeFiles/DSA_cpp.dir/recursive.cpp.obj	1351c76d4097ab7a
 4	45	7808411076151048	CMakeFiles/DSA_cpp.dir/EvenPrimeProduct.cpp.obj	247b7810885c362c
-6	300	7808432879263948	CMakeFiles/DSA_cpp.dir/factorial.cpp.obj	3caf9f7e1c5d7955
-1	183	7808439581951567	build.ninja	62540a2400f7bc2
 3	38	7808439582151314	CMakeFiles/DSA_cpp.dir/factorial.cpp.obj	3caf9f7e1c5d7955
-4	304	7808439582170760	CMakeFiles/DSA_cpp.dir/recursiveSum.cpp.obj	1497d41648e6885c
-304	386	7808439585154524	DSA_cpp.exe	676845c290aa219c
+37	270	7809717472557392	CMakeFiles/DSA_cpp.dir/recursiveSum.cpp.obj	1497d41648e6885c
+48	972	7809717472657065	CMakeFiles/DSA_cpp.dir/recursivePrint.cpp.obj	4aa8ba85f78b6167
+973	1613	7809717481907486	DSA_cpp.exe	459b97b7d85d2b41
+6	705	7809720019042941	CMakeFiles/DSA_cpp.dir/recursivePrint.cpp.obj	4aa8ba85f78b6167
+706	947	7809720026048517	DSA_cpp.exe	459b97b7d85d2b41
