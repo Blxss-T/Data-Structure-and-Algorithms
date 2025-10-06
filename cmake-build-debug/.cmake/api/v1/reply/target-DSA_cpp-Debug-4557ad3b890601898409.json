@@ -82,7 +82,9 @@
 				27,
 				28,
 				29,
-				30
+				30,
+				31,
+				32
 			]
 		}
 	],
@@ -149,7 +151,9 @@
 				27,
 				28,
 				29,
-				30
+				30,
+				31,
+				32
 			]
 		}
 	],
@@ -339,6 +343,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "recursivePrint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "recursiveCounter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "stringReverse.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

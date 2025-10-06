@@ -34,4 +34,6 @@ add_executable(DSA_cpp main.cpp
         cmake-build-debug/factorial.cpp
         cmake-build-debug/recursiveSum.cpp
         recursivePrint.cpp
+        recursiveCounter.cpp
+        stringReverse.cpp
 )
