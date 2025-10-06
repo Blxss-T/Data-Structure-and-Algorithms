@@ -36,4 +36,5 @@ add_executable(DSA_cpp main.cpp
         recursivePrint.cpp
         recursiveCounter.cpp
         stringReverse.cpp
+        RecursivedigitSum.cpp
 )
