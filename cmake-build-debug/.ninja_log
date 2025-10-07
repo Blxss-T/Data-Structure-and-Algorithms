@@ -35,3 +35,6 @@
 4	45	7808411076151048	CMakeFiles/DSA_cpp.dir/EvenPrimeProduct.cpp.obj	247b7810885c362c
 3	38	7808439582151314	CMakeFiles/DSA_cpp.dir/factorial.cpp.obj	3caf9f7e1c5d7955
 4	278	7814805933980638	CMakeFiles/DSA_cpp.dir/RecursivedigitSum.cpp.obj	b1a4cedccbc91842
+16	1422	7814875352626769	CMakeFiles/DSA_cpp.dir/oop.cpp.obj	92aa559cdfe2801d
+12	93	7814875476691739	CMakeFiles/DSA_cpp.dir/RecursivedigitSum.cpp.obj	b1a4cedccbc91842
+93	262	7814875477499749	DSA_cpp.exe	8d641dc81b44acad
