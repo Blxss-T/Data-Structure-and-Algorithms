@@ -1,10 +1,10 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-35	389	7814820837874241	build.ninja	62540a2400f7bc2
+35	389	7815227658528049	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
-279	362	7814805936732838	DSA_cpp.exe	2e512b6100db0384
+93	262	7814875477499749	DSA_cpp.exe	8d641dc81b44acad
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
 12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
 11	41	7796337800328371	CMakeFiles/DSA_cpp.dir/Omanipulator.cpp.obj	6b990165f748dded
@@ -34,7 +34,11 @@
 39	258	7805327883130482	CMakeFiles/DSA_cpp.dir/recursive.cpp.obj	1351c76d4097ab7a
 4	45	7808411076151048	CMakeFiles/DSA_cpp.dir/EvenPrimeProduct.cpp.obj	247b7810885c362c
 3	38	7808439582151314	CMakeFiles/DSA_cpp.dir/factorial.cpp.obj	3caf9f7e1c5d7955
-4	278	7814805933980638	CMakeFiles/DSA_cpp.dir/RecursivedigitSum.cpp.obj	b1a4cedccbc91842
-16	1422	7814875352626769	CMakeFiles/DSA_cpp.dir/oop.cpp.obj	92aa559cdfe2801d
 12	93	7814875476691739	CMakeFiles/DSA_cpp.dir/RecursivedigitSum.cpp.obj	b1a4cedccbc91842
-93	262	7814875477499749	DSA_cpp.exe	8d641dc81b44acad
+16	1422	7814875352626769	CMakeFiles/DSA_cpp.dir/oop.cpp.obj	92aa559cdfe2801d
+8	159	7815228242585281	CMakeFiles/DSA_cpp.dir/oop.cpp.obj	92aa559cdfe2801d
+15	938	7815228242659480	CMakeFiles/DSA_cpp.dir/sorting.cpp.obj	e06bb0d423122896
+938	1570	7815228251893438	DSA_cpp.exe	2ab20b7cc12e831b
+15	637	7815239205915010	CMakeFiles/DSA_cpp.dir/sorting.cpp.obj	e06bb0d423122896
+6	62	7815239341944934	CMakeFiles/DSA_cpp.dir/oop.cpp.obj	92aa559cdfe2801d
+63	291	7815239342514811	DSA_cpp.exe	2ab20b7cc12e831b

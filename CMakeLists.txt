@@ -38,4 +38,5 @@ add_executable(DSA_cpp main.cpp
         stringReverse.cpp
         RecursivedigitSum.cpp
         oop.cpp
+        sorting.cpp
 )
