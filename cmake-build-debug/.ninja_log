@@ -1,10 +1,10 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-35	389	7815260649903667	build.ninja	62540a2400f7bc2
+35	389	7815264709372588	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
-607	727	7815253389556488	DSA_cpp.exe	8f67390b2d586afd
+646	813	7815263493120998	DSA_cpp.exe	81f1982e500d0a1d
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
 12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
 11	41	7796337800328371	CMakeFiles/DSA_cpp.dir/Omanipulator.cpp.obj	6b990165f748dded
@@ -23,7 +23,7 @@
 12	245	7814788916202377	CMakeFiles/DSA_cpp.dir/recursivePrint.cpp.obj	4aa8ba85f78b6167
 48	138	7802318840202140	CMakeFiles/DSA_cpp.dir/oddProduct.cpp.obj	33baf183c3adc342
 7	108	7802380714771073	CMakeFiles/DSA_cpp.dir/even.cpp.obj	ae43987142f92479
-7	606	7815253383556007	CMakeFiles/DSA_cpp.dir/loop.cpp.obj	3143223083877df0
+7	102	7815263486731405	CMakeFiles/DSA_cpp.dir/loop.cpp.obj	3143223083877df0
 37	270	7809717472557392	CMakeFiles/DSA_cpp.dir/recursiveSum.cpp.obj	1497d41648e6885c
 3	34	7803147873927777	CMakeFiles/DSA_cpp.dir/arrayFunctions.cpp.obj	22f21b4a2bf18409
 5	38	7803141961541339	CMakeFiles/DSA_cpp.dir/arrays.cpp.obj	d973efd6eb0fdb16
@@ -38,6 +38,7 @@
 12	93	7814875476691739	CMakeFiles/DSA_cpp.dir/RecursivedigitSum.cpp.obj	b1a4cedccbc91842
 6	62	7815239341944934	CMakeFiles/DSA_cpp.dir/oop.cpp.obj	92aa559cdfe2801d
 8	117	7815252937333491	CMakeFiles/DSA_cpp.dir/sorting.cpp.obj	e06bb0d423122896
-7	102	7815263486731405	CMakeFiles/DSA_cpp.dir/loop.cpp.obj	3143223083877df0
 15	645	7815263486813591	CMakeFiles/DSA_cpp.dir/timeComplex.cpp.obj	4229a815fe0faab
-646	813	7815263493120998	DSA_cpp.exe	81f1982e500d0a1d
+11	128	7815264756557636	CMakeFiles/DSA_cpp.dir/timeComplex.cpp.obj	4229a815fe0faab
+4	388	7815267729376156	CMakeFiles/DSA_cpp.dir/timeComplex1.cpp.obj	701414aa2d1d9241
+388	599	7815267733138850	DSA_cpp.exe	34179a250cbeb0bd
