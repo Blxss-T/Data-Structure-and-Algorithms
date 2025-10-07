@@ -44,4 +44,5 @@ add_executable(DSA_cpp main.cpp
         timeComplex1.cpp
         progression.cpp
         classCircle.cpp
+        classPerson.cpp
 )
