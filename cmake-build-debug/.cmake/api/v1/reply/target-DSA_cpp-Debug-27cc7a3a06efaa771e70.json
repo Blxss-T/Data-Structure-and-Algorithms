@@ -87,7 +87,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		}
 	],
@@ -159,7 +160,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		}
 	],
@@ -379,6 +381,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "sorting.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "loop.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

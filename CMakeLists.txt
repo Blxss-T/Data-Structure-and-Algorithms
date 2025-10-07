@@ -39,4 +39,5 @@ add_executable(DSA_cpp main.cpp
         RecursivedigitSum.cpp
         oop.cpp
         sorting.cpp
+        loop.cpp
 )
