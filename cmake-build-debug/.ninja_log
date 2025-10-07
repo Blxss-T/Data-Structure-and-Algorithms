@@ -1,10 +1,10 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-35	389	7815264709372588	build.ninja	62540a2400f7bc2
+35	389	7815268664942951	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
-646	813	7815263493120998	DSA_cpp.exe	81f1982e500d0a1d
+388	599	7815267733138850	DSA_cpp.exe	34179a250cbeb0bd
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
 12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
 11	41	7796337800328371	CMakeFiles/DSA_cpp.dir/Omanipulator.cpp.obj	6b990165f748dded
@@ -38,7 +38,8 @@
 12	93	7814875476691739	CMakeFiles/DSA_cpp.dir/RecursivedigitSum.cpp.obj	b1a4cedccbc91842
 6	62	7815239341944934	CMakeFiles/DSA_cpp.dir/oop.cpp.obj	92aa559cdfe2801d
 8	117	7815252937333491	CMakeFiles/DSA_cpp.dir/sorting.cpp.obj	e06bb0d423122896
-15	645	7815263486813591	CMakeFiles/DSA_cpp.dir/timeComplex.cpp.obj	4229a815fe0faab
 11	128	7815264756557636	CMakeFiles/DSA_cpp.dir/timeComplex.cpp.obj	4229a815fe0faab
 4	388	7815267729376156	CMakeFiles/DSA_cpp.dir/timeComplex1.cpp.obj	701414aa2d1d9241
-388	599	7815267733138850	DSA_cpp.exe	34179a250cbeb0bd
+4	44	7815269056240458	CMakeFiles/DSA_cpp.dir/timeComplex1.cpp.obj	701414aa2d1d9241
+7	267	7815269056280996	CMakeFiles/DSA_cpp.dir/progression.cpp.obj	53712309dcac7107
+267	330	7815269058873702	DSA_cpp.exe	2676a0bd42412254

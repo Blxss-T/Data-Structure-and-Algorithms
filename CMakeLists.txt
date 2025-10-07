@@ -42,4 +42,5 @@ add_executable(DSA_cpp main.cpp
         loop.cpp
         timeComplex.cpp
         timeComplex1.cpp
+        progression.cpp
 )
