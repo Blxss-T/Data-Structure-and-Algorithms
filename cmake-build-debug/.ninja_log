@@ -43,3 +43,6 @@
 11	128	7815264756557636	CMakeFiles/DSA_cpp.dir/timeComplex.cpp.obj	4229a815fe0faab
 4	44	7815269056240458	CMakeFiles/DSA_cpp.dir/timeComplex1.cpp.obj	701414aa2d1d9241
 7	98	7815326664240316	CMakeFiles/DSA_cpp.dir/progression.cpp.obj	53712309dcac7107
+3	51	7826558875913966	CMakeFiles/DSA_cpp.dir/classPerson.cpp.obj	f9fdd4829c9c4ffd
+2	342	7826559236242848	CMakeFiles/DSA_cpp.dir/bubbleSort.cpp.obj	7b1a1ea405d954b8
+342	815	7826559239644809	DSA_cpp.exe	6fc515d5d3e0124a
