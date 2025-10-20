@@ -2,6 +2,7 @@
 using namespace std;
 int main () {
     int a[5]={50,40,20,30,10};
+    cout<<"Display before sorting";
     for (int k=0;k<n;k++) {
         cout<<a[k]<<" ";
     }
