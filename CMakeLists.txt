@@ -45,4 +45,5 @@ add_executable(DSA_cpp main.cpp
         progression.cpp
         classCircle.cpp
         classPerson.cpp
+        bubbleSort.cpp
 )
