@@ -26,5 +26,6 @@ void bubbleSort(int a[],int n) {
 int main () {
     int n=5;
     int a[n]={50,40,20,30,10};
+    bubbleSort(a,n);
 
 }
