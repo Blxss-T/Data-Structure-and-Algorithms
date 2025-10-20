@@ -17,6 +17,9 @@ int main () {
               }
           }
       }
+    cout<<"Display after sorting";
 
-    for (int t=0;t<n;t++)
+    for (int t=0;t<n;t++) {
+        cout<<a[t];
+    }
 }
