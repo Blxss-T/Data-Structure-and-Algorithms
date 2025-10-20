@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 void bubbleSort(int a[],int n) {
+    int counter=0; check=0;
     cout<<"Display before sorting";
     for (int k=0;k<n;k++) {
         cout<<a[k]<<" ";
