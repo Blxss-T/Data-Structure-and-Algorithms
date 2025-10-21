@@ -31,5 +31,17 @@ void mergeSort(int a[],int s,int e) {
     if (s>=e) {
         return;
     }
+    int mid=(s+e)/2;
+    int x[100],y[100];
+    for (int i=s;i<=mid;i++) {
+        x[i]=a[i];
+    }
+    for (int i=mid+1;i<=e;i++) {
+        y[i]=a[i];
+    }
+    mergeSort(x,s,mid);
+    mergeSort(y,mid+1,e);
+    mergeArrays(x,y,a,s,e);
+
 
 }
