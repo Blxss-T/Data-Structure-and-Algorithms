@@ -47,4 +47,5 @@ add_executable(DSA_cpp main.cpp
         classPerson.cpp
         bubbleSort.cpp
         mergeSort.cpp
+        mergeSort2.cpp
 )
