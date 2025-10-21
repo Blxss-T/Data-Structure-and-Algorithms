@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-void selectionSort
+void selectionSort(int arr[],n) {
+
+}
  int main() {
 
  }
