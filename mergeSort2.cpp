@@ -46,5 +46,5 @@ void mergeSort(int a[],int s,int e) {
 
 }
 int main() {
-    int
+    int a []
 }
