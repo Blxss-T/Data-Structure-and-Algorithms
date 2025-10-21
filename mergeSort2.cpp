@@ -47,6 +47,9 @@ void mergeSort(int a[],int s,int e) {
 }
 int main() {
     int a []={7,3,10,5,6,2,-5};
-
+    mergeSort(a,0,6);
+    for (int i=0;i<7;i++){
+        cout<<a[i]<<" ";
+    }
     return 0;
 }
