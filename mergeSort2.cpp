@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void mergeArrays(int x[],int y[],int a,itn s ,int e) {
+void mergeArrays(int x[],int y[],int a,int s ,int e) {
     int mid=(s+e)/2;
     int i=s;
     int j=mid+1;
