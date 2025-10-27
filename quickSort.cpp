@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
 
-void quickSort(int arr[],int n) {
+void quickSort(int arr[],int low,int high) {
+    if (low<high) {
+        int pi
+
+    }
 
 
 }
