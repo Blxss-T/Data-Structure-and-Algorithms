@@ -1,9 +1,9 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-4	331	7832468850712840	build.ninja	62540a2400f7bc2
+4	331	7832596528466536	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
-342	815	7826559239644809	DSA_cpp.exe	6fc515d5d3e0124a
+637	790	7832512903044034	DSA_cpp.exe	a062906a063d3646
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
@@ -43,4 +43,7 @@
 11	128	7815264756557636	CMakeFiles/DSA_cpp.dir/timeComplex.cpp.obj	4229a815fe0faab
 4	44	7815269056240458	CMakeFiles/DSA_cpp.dir/timeComplex1.cpp.obj	701414aa2d1d9241
 7	98	7815326664240316	CMakeFiles/DSA_cpp.dir/progression.cpp.obj	53712309dcac7107
-2	342	7826559236242848	CMakeFiles/DSA_cpp.dir/bubbleSort.cpp.obj	7b1a1ea405d954b8
+7	132	7832510434864877	CMakeFiles/DSA_cpp.dir/bubbleSort.cpp.obj	7b1a1ea405d954b8
+10	636	7832512896778080	CMakeFiles/DSA_cpp.dir/bubbleSort1.cpp.obj	8d8c4920ac5fed9
+13	126	7832510434926433	CMakeFiles/DSA_cpp.dir/mergeSort.cpp.obj	19485c27a1d7a237
+19	142	7832510434988919	CMakeFiles/DSA_cpp.dir/mergeSort2.cpp.obj	c11167983aff2d64
