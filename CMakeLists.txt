@@ -50,4 +50,5 @@ add_executable(DSA_cpp main.cpp
         mergeSort2.cpp
         bubbleSort1.cpp
         quickSort.cpp
+        binarySearch.cpp
 )

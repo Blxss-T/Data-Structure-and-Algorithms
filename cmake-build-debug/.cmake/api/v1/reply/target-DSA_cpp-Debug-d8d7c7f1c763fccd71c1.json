@@ -98,7 +98,8 @@
 				43,
 				44,
 				45,
-				46
+				46,
+				47
 			]
 		}
 	],
@@ -181,7 +182,8 @@
 				43,
 				44,
 				45,
-				46
+				46,
+				47
 			]
 		}
 	],
@@ -467,6 +469,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "quickSort.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "binarySearch.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
