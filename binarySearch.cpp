@@ -29,6 +29,6 @@ int main () {
     int key;
     cin>>key;
     sort(a,a+1);
-    int pos=
+
 
 }
