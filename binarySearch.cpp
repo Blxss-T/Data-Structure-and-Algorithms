@@ -18,3 +18,17 @@ int BinarySearch(int a[],int n,int key) {
     return -1;
 
 }
+int main () {
+    int n;
+    cin>>n;
+    int a[n];
+    for (int i=0;i<n;i++) {
+        cin>>a[i];
+    }
+    cout<<"Enter key"<<endl;
+    int key;
+    cin>>key;
+    sort(a,a+1);
+    int pos=
+
+}
