@@ -1,3 +1,11 @@
-//
-// Created by HP on 27/10/2025.
-//
+#include <iostream>
+using namespace std;
+
+void quickSort(int arr[],int n) {
+
+
+}
+int main () {
+    int low=arr[0];
+    int high =arr[n-1];
+}
