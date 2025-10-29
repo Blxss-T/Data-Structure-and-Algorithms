@@ -99,7 +99,8 @@
 				44,
 				45,
 				46,
-				47
+				47,
+				48
 			]
 		}
 	],
@@ -183,7 +184,8 @@
 				44,
 				45,
 				46,
-				47
+				47,
+				48
 			]
 		}
 	],
@@ -475,6 +477,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "binarySearch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "binaryRecursive.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
