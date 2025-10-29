@@ -47,3 +47,14 @@
 10	636	7832512896778080	CMakeFiles/DSA_cpp.dir/bubbleSort1.cpp.obj	8d8c4920ac5fed9
 13	126	7832510434926433	CMakeFiles/DSA_cpp.dir/mergeSort.cpp.obj	19485c27a1d7a237
 19	142	7832510434988919	CMakeFiles/DSA_cpp.dir/mergeSort2.cpp.obj	c11167983aff2d64
+27	252	7834206618611785	CMakeFiles/DSA_cpp.dir/binarySearch.cpp.obj	280d0a2e3409888f
+14	260	7834206618490241	CMakeFiles/DSA_cpp.dir/bubbleSort1.cpp.obj	8d8c4920ac5fed9
+21	261	7834206618551975	CMakeFiles/DSA_cpp.dir/quickSort.cpp.obj	b05e4cf4fba5bb9a
+8	640	7834206721134678	CMakeFiles/DSA_cpp.dir/binaryRecursive.cpp.obj	979bcba114238375
+641	1307	7834206727465022	DSA_cpp.exe	278df12796837ffc
+8	615	7834206911441325	CMakeFiles/DSA_cpp.dir/binaryRecursive.cpp.obj	979bcba114238375
+615	775	7834206917515276	DSA_cpp.exe	278df12796837ffc
+9	605	7834207208376482	CMakeFiles/DSA_cpp.dir/binaryRecursive.cpp.obj	979bcba114238375
+606	740	7834207214337315	DSA_cpp.exe	278df12796837ffc
+10	625	7834208940830340	CMakeFiles/DSA_cpp.dir/binaryRecursive.cpp.obj	979bcba114238375
+626	760	7834208946988093	DSA_cpp.exe	278df12796837ffc

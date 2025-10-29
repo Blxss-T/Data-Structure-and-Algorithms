@@ -1,6 +1,6 @@
-#include <iostream>
+#include <iostream>,
 using namespace std;
-int binary_function(int a[] ,int low,int high, int target) {
+int binaryRecursive(int a[] ,int low,int high, int target) {
     int mid=(low+high)/2;
     if (low>high)
         return -1;
@@ -9,11 +9,18 @@ int binary_function(int a[] ,int low,int high, int target) {
             return mid;
 
         else if (a[mid]>target)
-            return binary_function(a,low,mid-1,target);
+            return binaryRecursive(a,low,mid-1,target);
 
         else
-            return binary_function(a,mid+1);
+            return binaryRecursive(a,low,mid+1, target);
 
     }
 int main () {
+    int a[]={1,2,3,4,5,6,6,7,8,9};
+    int low=0;
+    int n= sizeof(a)/sizeof(a[0]);
+    int high=n-1;
+    int target=8;
+    int targetValue =binaryRecursive(a,low,high,target);
+    cout<<a[targetValue]<<endl;
 }
