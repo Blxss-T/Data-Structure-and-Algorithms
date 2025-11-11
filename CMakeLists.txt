@@ -54,4 +54,5 @@ add_executable(DSA_cpp main.cpp
         binaryRecursive.cpp
         linkedLists.cpp
         minimalLinkedLists.cpp
+        newLinkedList.cpp
 )
