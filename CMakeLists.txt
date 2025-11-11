@@ -55,4 +55,5 @@ add_executable(DSA_cpp main.cpp
         linkedLists.cpp
         minimalLinkedLists.cpp
         newLinkedList.cpp
+        "templateLinkedList .cpp"
 )
