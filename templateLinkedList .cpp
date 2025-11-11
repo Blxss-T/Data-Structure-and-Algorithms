@@ -1,17 +1,19 @@
 #include <iostream>
 using namespace std;
+template <typename  T>
 
 class Node {
     public :
-        int data ;
+        T data ;
     Node *next;
-    Node (int d ) {
+    Node (T d ) {
         data=d;
         next=nullptr;
     }
 
 };
-void display(Node *head ) {
+template <typename T>
+void display(Node<T> *head ) {
     while (head!=nullptr) {
         cout<<head->data<<"";
         head =head->next;
