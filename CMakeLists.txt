@@ -52,4 +52,6 @@ add_executable(DSA_cpp main.cpp
         quickSort.cpp
         binarySearch.cpp
         binaryRecursive.cpp
+        linkedLists.cpp
+        minimalLinkedLists.cpp
 )
