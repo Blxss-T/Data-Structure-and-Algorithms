@@ -104,7 +104,8 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53
 			]
 		}
 	],
@@ -193,7 +194,15 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				54
 			]
 		}
 	],
@@ -516,6 +525,17 @@
 			"compileGroupIndex" : 0,
 			"path" : "templateLinkedList .cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lists.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Lists.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
