@@ -13,6 +13,7 @@ int main() {
     // }
     vector<int> ages={7,8,5,4,5,9,6,4,2};
     ages.push_back(59);
+    ages.pop_back();
     for (int i=0;i<ages.size();i++) {
         cout<<ages[i]<<endl;
     }
