@@ -39,7 +39,32 @@ Node *insertAtPos(Node*head, int i , int data) {
         head->next=n;
 
     }
-    Node
+    Node* deleteFirstNode(Node* head) {
+        if (head== NULL)
+            return NULL;
+        // move the head pointer to the next node
+        Node* temp =head ;
+        head = temp->next;
+        delete temp;
+        return head;
+
+    }
+}
+Node * deleteLastNode(Node* head) {
+    if (head == NULL)
+        return NULL;
+    if (head->next==NULL) {
+        delete head;
+        return NULL;
+    }
+    Node * second_last= head ;
+    while (second_last->next->next != NULL)
+        second_last= second_last->next;
+    //delete last node
+    delete(second_last->next);
+    //change next of second last
+    second_last->next=NULL;
+    return head;
 }
 int main () {
 //     Node *n1 = new Node();
