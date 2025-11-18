@@ -1,19 +1,47 @@
-// #include <iostream>
-// using namespace std;
-//
-// class Node {
-//     public :
-//         int data ;
-//     Node *next;
-//
-// };
-// void display(Node *head ) {
-//     while (head!=nullptr) {
-//         cout<<head->data<<"";
-//         head =head->next;
-//     }
-// }
-// int main () {
+#include <iostream>
+using namespace std;
+
+class Node {
+    public :
+        int data ;
+    Node *next;
+
+};
+void display(Node *head ) {
+    while (head!=nullptr) {
+        cout<<head->data<<"";
+        head =head->next;
+    }
+}
+Node * addAtTail(Node *head , int data) {
+    Node *temp = head;
+    Node *newNode=new Node (500);
+}
+Node *insertAtPos(Node*head, int i , int data) {
+    if (i<0) {
+        return head;
+    }
+    if (i==0) {
+        Node *n = new Node(data);
+        n->next= head;
+        head =n ;
+        return head;
+    }
+    Node * temp = head ;
+    int count =1;
+    while (count <=i-1&&head!=NULL) {
+        head=head->next;
+        count ++;
+    }
+    if (head) {
+        Node n= new Node(data);
+        n->next=head->next;
+        head->next=n;
+
+    }
+    Node
+}
+int main () {
 //     Node *n1 = new Node();
 //     Node *n2 = new Node();
 //     Node *n3 = new Node();
@@ -28,8 +56,5 @@
 //     n4->next=nullptr;
 //     display(n1);
 //     return 0;
-//
-//
-//
-//
-// }
+
+}

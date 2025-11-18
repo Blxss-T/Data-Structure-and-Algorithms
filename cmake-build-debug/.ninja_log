@@ -1,10 +1,10 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-4	331	7850216641782536	build.ninja	62540a2400f7bc2
+7	406	7851538914276693	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
-277	373	7845500164786299	DSA_cpp.exe	dc310e5a192c6112
+1267	1584	7850223569303342	DSA_cpp.exe	49a0deefa4fed45
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
 12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
 11	41	7796337800328371	CMakeFiles/DSA_cpp.dir/Omanipulator.cpp.obj	6b990165f748dded
@@ -19,7 +19,7 @@
 28	143	7797087561760694	CMakeFiles/DSA_cpp.dir/sphere_volume.cpp.obj	7137094fed5881ba
 34	196	7797087561822019	CMakeFiles/DSA_cpp.dir/additionb.cpp.obj	e618585fa81bc4c0
 6	84	7797594582766556	CMakeFiles/DSA_cpp.dir/insertion.cpp.obj	133efb4d15741404
-3	277	7845500162036566	CMakeFiles/DSA_cpp.dir/minimalLinkedLists.cpp.obj	548b375a1b534708
+13	212	7850216642397738	CMakeFiles/DSA_cpp.dir/minimalLinkedLists.cpp.obj	548b375a1b534708
 5	40	7803142161088584	CMakeFiles/DSA_cpp.dir/arrrayExercise.cpp.obj	a79698dbac859a67
 45	134	7802318840169856	CMakeFiles/DSA_cpp.dir/deletion.cpp.obj	54f9dd45668086e0
 9	79	7815340459761750	CMakeFiles/DSA_cpp.dir/classCircle.cpp.obj	85ea4c631a656186
@@ -33,9 +33,10 @@
 5	66	7802381784629748	CMakeFiles/DSA_cpp.dir/prime.cpp.obj	5cdb0588ed536b6e
 8	91	7803177451860988	CMakeFiles/DSA_cpp.dir/pointera.cpp.obj	f09f8295547deb77
 11	111	7803177186270728	CMakeFiles/DSA_cpp.dir/mathOper.cpp.obj	9692a79ec5d05558
-5	40	7845500162066265	CMakeFiles/DSA_cpp.dir/newLinkedList.cpp.obj	16f39473f759052a
+18	202	7850216642447838	CMakeFiles/DSA_cpp.dir/newLinkedList.cpp.obj	16f39473f759052a
 3	56	7808432879234051	CMakeFiles/DSA_cpp.dir/fibonacci.cpp.obj	f21160cc1916ae0b
 8	115	7803229051193692	CMakeFiles/DSA_cpp.dir/ArrayCOnt.cpp.obj	ace521f708cf067b
+5	1267	7850223556681692	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
 7	68	7845491044286982	CMakeFiles/DSA_cpp.dir/linkedLists.cpp.obj	4172328506ce8af4
 39	258	7805327883130482	CMakeFiles/DSA_cpp.dir/recursive.cpp.obj	1351c76d4097ab7a
 4	45	7808411076151048	CMakeFiles/DSA_cpp.dir/EvenPrimeProduct.cpp.obj	247b7810885c362c
@@ -53,17 +54,4 @@
 27	252	7834206618611785	CMakeFiles/DSA_cpp.dir/binarySearch.cpp.obj	280d0a2e3409888f
 21	261	7834206618551975	CMakeFiles/DSA_cpp.dir/quickSort.cpp.obj	b05e4cf4fba5bb9a
 14	211	7845487334782017	CMakeFiles/DSA_cpp.dir/binaryRecursive.cpp.obj	979bcba114238375
-7	406	7850216641782536	build.ninja	62540a2400f7bc2
-18	202	7850216642447838	CMakeFiles/DSA_cpp.dir/newLinkedList.cpp.obj	16f39473f759052a
 23	205	7850216642499959	CMakeFiles/DSA_cpp.dir/templateLinkedList_.cpp.obj	5832fa34a092455a
-13	212	7850216642397738	CMakeFiles/DSA_cpp.dir/minimalLinkedLists.cpp.obj	548b375a1b534708
-29	788	7850216642564134	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
-788	1293	7850216650153044	DSA_cpp.exe	49a0deefa4fed45
-10	621	7850216863362293	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
-623	768	7850216869492581	DSA_cpp.exe	49a0deefa4fed45
-8	621	7850217316633281	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
-622	774	7850217322763266	DSA_cpp.exe	49a0deefa4fed45
-11	1090	7850220455684199	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
-1091	1251	7850220466471385	DSA_cpp.exe	49a0deefa4fed45
-5	1267	7850223556681692	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
-1267	1584	7850223569303342	DSA_cpp.exe	49a0deefa4fed45
