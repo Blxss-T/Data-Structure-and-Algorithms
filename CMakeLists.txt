@@ -57,4 +57,5 @@ add_executable(DSA_cpp main.cpp
         newLinkedList.cpp
         "templateLinkedList .cpp"
         Lists.cpp
+        checkOccurence.cpp
 )
