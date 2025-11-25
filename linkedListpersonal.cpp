@@ -5,3 +5,7 @@ public:
     int data;
     Node* next;
 };
+
+ int main () {
+
+ }
