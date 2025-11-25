@@ -1,3 +1,7 @@
-//
-// Created by HP on 25/11/2025.
-//
+#include <iostream>
+using namespace std;
+class Node {
+public:
+    int data;
+    Node* next;
+};
