@@ -23,6 +23,7 @@ void traverse(Node* head) {
      second->next=third;
      third->data=30;
      third->next=NULL;
+    traverse(head);
 
 
 
