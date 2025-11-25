@@ -55,6 +55,7 @@ Node *merge(Node *a, Node *b) {
     return c;
 
 }
+Node *midpoint (Node *head)
 // Node * addAtTail(Node *head , int data) {
 //     Node *temp = head;
 //     Node *newNode=new Node (500);
