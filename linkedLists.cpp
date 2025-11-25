@@ -33,6 +33,28 @@ Node* reverse(Node* head) {
     return previous;
 
 }
+//Merge sorting of linked lists
+Node *merge(Node *a, Node *b) {
+    //base case
+    if (a== NULL)
+        return b;
+    if (b== NULL)
+        return a;
+    //recursive case
+    //take a head pointer
+    Node *c;
+    if (a->data<b->data) {
+        c=a;
+        c->next=merge(a->next,b);
+    }
+    else {
+
+        c=b;
+        c->next=merge(a,b->next);
+    }
+    return c;
+
+}
 // Node * addAtTail(Node *head , int data) {
 //     Node *temp = head;
 //     Node *newNode=new Node (500);
