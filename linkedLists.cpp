@@ -1,18 +1,38 @@
-// #include <iostream>
-// using namespace std;
-//
-// class Node {
-//     public :
-//         int data ;
-//     Node *next;
-//
-// };
-// void display(Node *head ) {
-//     while (head!=nullptr) {
-//         cout<<head->data<<"";
-//         head =head->next;
-//     }
-// }
+#include <iostream>
+using namespace std;
+
+class Node {
+    public :
+        int data ;
+    Node *next;
+
+};
+void display(Node *head ) {
+    while (head!=nullptr) {
+        cout<<head->data<<"";
+        head =head->next;
+    }
+}
+Node* reverse(Node* head) {
+    // make head our current node
+    Node * current= head ;
+    // make previous pointing to null
+    Node *previous=NULL;
+    Node * n =NULL;
+    // we need to loop until current or head pointin to null
+    while (current!=NULL) {
+        //save the next element
+        n= current->next;
+        //instead of pointing to next element , point to previous
+        current->next=previous;
+        // move pointers one position ahead
+        previous = current;
+        current = n ;
+    }
+    // the last prev is our head
+    return previous;
+
+}
 // Node * addAtTail(Node *head , int data) {
 //     Node *temp = head;
 //     Node *newNode=new Node (500);
@@ -66,7 +86,7 @@
 //     second_last->next=NULL;
 //     return head;
 // }
-// int main () {
+int main () {
 // //     Node *n1 = new Node();
 // //     Node *n2 = new Node();
 // //     Node *n3 = new Node();
@@ -81,5 +101,5 @@
 // //     n4->next=nullptr;
 // //     display(n1);
 // //     return 0;
-//
-// }
+
+}
