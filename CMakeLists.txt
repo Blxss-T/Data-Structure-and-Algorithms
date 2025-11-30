@@ -60,4 +60,5 @@ add_executable(DSA_cpp main.cpp
         checkOccurence.cpp
         reversedLinkedlist.cpp
         linkedListpersonal.cpp
+        linkedListBasics.cpp
 )
