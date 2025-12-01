@@ -61,4 +61,6 @@ add_executable(DSA_cpp main.cpp
         reversedLinkedlist.cpp
         linkedListpersonal.cpp
         linkedListBasics.cpp
+        DoublyLinked.cpp
+        circularLinkedList.cpp
 )

@@ -1,12 +1,12 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-7	406	7862329479505958	build.ninja	62540a2400f7bc2
+7	406	7862820955975080	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
-1267	1584	7850223569303342	DSA_cpp.exe	49a0deefa4fed45
+658	836	7862818465503581	DSA_cpp.exe	7f6a58e549e2150e
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
-12	100	7803136919677858	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
+12	100	7862758194554275	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
 110	325	7857958939215120	CMakeFiles/DSA_cpp.dir/reversedLinkedlist.cpp.obj	5a4442eca44f7441
 11	41	7796337800328371	CMakeFiles/DSA_cpp.dir/Omanipulator.cpp.obj	6b990165f748dded
 4	50	7814805216633902	CMakeFiles/DSA_cpp.dir/recursiveCounter.cpp.obj	63d6932c6f7546d6
@@ -37,9 +37,10 @@
 18	202	7850216642447838	CMakeFiles/DSA_cpp.dir/newLinkedList.cpp.obj	16f39473f759052a
 3	56	7808432879234051	CMakeFiles/DSA_cpp.dir/fibonacci.cpp.obj	f21160cc1916ae0b
 8	115	7803229051193692	CMakeFiles/DSA_cpp.dir/ArrayCOnt.cpp.obj	ace521f708cf067b
-5	1267	7850223556681692	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
+7	73	7862758331629651	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
 47	329	7857958938574315	CMakeFiles/DSA_cpp.dir/linkedLists.cpp.obj	4172328506ce8af4
 39	258	7805327883130482	CMakeFiles/DSA_cpp.dir/recursive.cpp.obj	1351c76d4097ab7a
+7	156	7862818458986971	CMakeFiles/DSA_cpp.dir/linkedListBasics.cpp.obj	95b3bddcaae4481d
 4	45	7808411076151048	CMakeFiles/DSA_cpp.dir/EvenPrimeProduct.cpp.obj	247b7810885c362c
 3	38	7808439582151314	CMakeFiles/DSA_cpp.dir/factorial.cpp.obj	3caf9f7e1c5d7955
 12	93	7814875476691739	CMakeFiles/DSA_cpp.dir/RecursivedigitSum.cpp.obj	b1a4cedccbc91842
@@ -48,7 +49,7 @@
 11	128	7815264756557636	CMakeFiles/DSA_cpp.dir/timeComplex.cpp.obj	4229a815fe0faab
 4	44	7815269056240458	CMakeFiles/DSA_cpp.dir/timeComplex1.cpp.obj	701414aa2d1d9241
 7	98	7815326664240316	CMakeFiles/DSA_cpp.dir/progression.cpp.obj	53712309dcac7107
-37	1187	7857958938480575	CMakeFiles/DSA_cpp.dir/bubbleSort.cpp.obj	7b1a1ea405d954b8
+7	88	7862759128909004	CMakeFiles/DSA_cpp.dir/bubbleSort.cpp.obj	7b1a1ea405d954b8
 14	260	7834206618490241	CMakeFiles/DSA_cpp.dir/bubbleSort1.cpp.obj	8d8c4920ac5fed9
 13	126	7832510434926433	CMakeFiles/DSA_cpp.dir/mergeSort.cpp.obj	19485c27a1d7a237
 19	142	7832510434988919	CMakeFiles/DSA_cpp.dir/mergeSort2.cpp.obj	c11167983aff2d64
@@ -57,10 +58,5 @@
 14	211	7845487334782017	CMakeFiles/DSA_cpp.dir/binaryRecursive.cpp.obj	979bcba114238375
 9	88	7857968132163602	CMakeFiles/DSA_cpp.dir/templateLinkedList_.cpp.obj	5832fa34a092455a
 64	330	7857958938749815	CMakeFiles/DSA_cpp.dir/checkOccurence.cpp.obj	9578e50b723263a
-118	1184	7857958939296799	CMakeFiles/DSA_cpp.dir/linkedListpersonal.cpp.obj	f7722bbe834059c4
 15	168	7862723017737698	CMakeFiles/DSA_cpp.dir/linkedListpersonal.cpp.obj	f7722bbe834059c4
-26	487	7862723017850546	CMakeFiles/DSA_cpp.dir/linkedListBasics.cpp.obj	95b3bddcaae4481d
-12	100	7862758194554275	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
-7	73	7862758331629651	CMakeFiles/DSA_cpp.dir/Lists.cpp.obj	1438b9f1fb42c8b5
-7	88	7862759128909004	CMakeFiles/DSA_cpp.dir/bubbleSort.cpp.obj	7b1a1ea405d954b8
-89	256	7862759129722100	DSA_cpp.exe	4c3d8530bf356210
+24	658	7862818459161884	CMakeFiles/DSA_cpp.dir/DoublyLinked.cpp.obj	efc9a70963b69563

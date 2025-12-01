@@ -109,7 +109,9 @@
 				54,
 				55,
 				56,
-				57
+				57,
+				58,
+				59
 			]
 		}
 	],
@@ -203,7 +205,9 @@
 				54,
 				55,
 				56,
-				57
+				57,
+				58,
+				59
 			]
 		}
 	],
@@ -555,6 +559,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "linkedListBasics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DoublyLinked.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "circularLinkedList.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
