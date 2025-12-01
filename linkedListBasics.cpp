@@ -17,6 +17,12 @@ public:
     LinkedList() {
         head=NULL;
     }
+    void display() {
+        Node *temp=head;
+        while (head->next!=NULL) {
+            cout<<head
+        }
+    }
 };
 int main() {
     Node *n1= new Node(10);
