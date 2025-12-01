@@ -11,6 +11,13 @@ public:
     }
 
 };
+class LinkedList {
+    Node *head;
+public:
+    LinkedList() {
+        head=NULL;
+    }
+};
 int main() {
     Node *n1= new Node(10);
     Node *n2= new Node(20);
