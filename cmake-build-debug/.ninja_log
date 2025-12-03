@@ -1,10 +1,10 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-7	406	7862820955975080	build.ninja	62540a2400f7bc2
+7	406	7862847763600481	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 21	55	7797053317176120	CMakeFiles/DSA_cpp.dir/Calculator.cpp.obj	a61ff497f857632
 34	81	7796260867621906	CMakeFiles/DSA_cpp.dir/constant.cpp.obj	f1e1ac78953d0d8c
-658	836	7862818465503581	DSA_cpp.exe	7f6a58e549e2150e
+647	777	7862831229667109	DSA_cpp.exe	e44b74e2115f57ea
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
 12	100	7862758194554275	CMakeFiles/DSA_cpp.dir/main.cpp.obj	2296d56a81aa6957
 110	325	7857958939215120	CMakeFiles/DSA_cpp.dir/reversedLinkedlist.cpp.obj	5a4442eca44f7441
@@ -19,6 +19,7 @@
 27	123	7797063520832782	CMakeFiles/DSA_cpp.dir/swap.cpp.obj	6dce517116bc5653
 28	143	7797087561760694	CMakeFiles/DSA_cpp.dir/sphere_volume.cpp.obj	7137094fed5881ba
 34	196	7797087561822019	CMakeFiles/DSA_cpp.dir/additionb.cpp.obj	e618585fa81bc4c0
+8	646	7862831223284532	CMakeFiles/DSA_cpp.dir/circularLinkedList.cpp.obj	f27ba8050da3db33
 6	84	7797594582766556	CMakeFiles/DSA_cpp.dir/insertion.cpp.obj	133efb4d15741404
 13	212	7850216642397738	CMakeFiles/DSA_cpp.dir/minimalLinkedLists.cpp.obj	548b375a1b534708
 5	40	7803142161088584	CMakeFiles/DSA_cpp.dir/arrrayExercise.cpp.obj	a79698dbac859a67
@@ -59,4 +60,4 @@
 9	88	7857968132163602	CMakeFiles/DSA_cpp.dir/templateLinkedList_.cpp.obj	5832fa34a092455a
 64	330	7857958938749815	CMakeFiles/DSA_cpp.dir/checkOccurence.cpp.obj	9578e50b723263a
 15	168	7862723017737698	CMakeFiles/DSA_cpp.dir/linkedListpersonal.cpp.obj	f7722bbe834059c4
-24	658	7862818459161884	CMakeFiles/DSA_cpp.dir/DoublyLinked.cpp.obj	efc9a70963b69563
+10	592	7862828078213173	CMakeFiles/DSA_cpp.dir/DoublyLinked.cpp.obj	efc9a70963b69563

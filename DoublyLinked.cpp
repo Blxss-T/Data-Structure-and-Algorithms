@@ -100,6 +100,41 @@ public:
 
         cout << "NULL\n";
     }
+    // there are two types of traversing in doubly forward and backward
+    //Forward traversing
+    void traverseForward() {
+        if (head == NULL) {
+            cout << "List is empty\n";
+            return;
+        }
+
+        Node* temp = head;
+
+        while (temp != NULL) {
+            cout << temp->data << " <-> ";
+            temp = temp->next;
+        }
+
+        cout << "NULL\n";
+    }
+//backward
+    void traverseBackward() {
+        if (tail == NULL) {
+            cout << "List is empty\n";
+            return;
+        }
+
+        Node* temp = tail;
+
+        while (temp != NULL) {
+            cout << temp->data << " <-> ";
+            temp = temp->prev;
+        }
+
+        cout << "NULL\n";
+    }
+};
+
 
     // DISPLAY BACKWARD
     void displayBackward() {
@@ -132,34 +167,33 @@ public:
     }
 };
 
-// ================= MAIN FUNCTION =================
-int main() {
-    DoublyLinkedList list;
-
-    // Insert at beginning
-    list.insertAtBeginning(10);
-    list.insertAtBeginning(20);
-    list.insertAtBeginning(30);
-
-    // Insert at end
-    list.insertAtEnd(40);
-    list.insertAtEnd(50);
-
-    cout << "Forward: ";
-    list.displayForward();
-
-    cout << "Backward: ";
-    list.displayBackward();
-
-    // Delete a value
-    cout << "\nDeleting 30...\n";
-    list.deleteValue(30);
-
-    cout << "Forward After Deletion: ";
-    list.displayForward();
-
-    cout << "Backward After Deletion: ";
-    list.displayBackward();
-
-    return 0;
-}
+// int main() {
+//     DoublyLinkedList list;
+//
+//     // Insert at beginning
+//     list.insertAtBeginning(10);
+//     list.insertAtBeginning(20);
+//     list.insertAtBeginning(30);
+//
+//     // Insert at end
+//     // list.insertAtEnd(40);
+//     // list.insertAtEnd(50);
+//     //
+//     // cout << "Forward: ";
+//     // list.displayForward();
+//     //
+//     // cout << "Backward: ";
+//     // list.displayBackward();
+//
+//     // Delete a value
+//     // cout << "\nDeleting 30...\n";
+//     // list.deleteValue(30);
+//     //
+//     // cout << "Forward After Deletion: ";
+//     // list.displayForward();
+//     //
+//     // cout << "Backward After Deletion: ";
+//     // list.displayBackward();
+//
+//     return 0;
+// }
