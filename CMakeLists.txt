@@ -64,4 +64,5 @@ add_executable(DSA_cpp main.cpp
         DoublyLinked.cpp
         circularLinkedList.cpp
         LinkedListExercise.cpp
+        Exams/arrays.cpp
 )
