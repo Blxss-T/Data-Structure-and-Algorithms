@@ -26,17 +26,30 @@ public:
     }
 };
 Node* insertAtBeginning(Node*head,int data) {
-    Node *n1= new Node(10);
+    Node *n1= new Node(data);
     if (head==NULL) {
         head=n1;
     }
-    while
+    n1->next=head;
+    head=n1;
+
+}
+Node* insertsAtBack(Node *head,int data) {
+    Node *n1= new Node(data);
+    if (head==NULL) {
+        head=n1;
+        return head;
+    }
+    while (head->next!=NULL) {
+        head=head->next;
+    }
 }
 int main() {
+    int x;
+cout<<"Enter any data:"<<endl;
+    cin>>x;
 
-    Node *n2= new Node(20);
-    n1->next=n2;
-    cout<<n1->data<<endl;
-    LinkedList list;
-    list.display();
+
+
+
 }
