@@ -66,4 +66,5 @@ add_executable(DSA_cpp main.cpp
         LinkedListExercise.cpp
         Exams/arrays.cpp
         "Exams/mergeSort.cpp"
+        linkedListReview.cpp
 )
