@@ -67,4 +67,5 @@ add_executable(DSA_cpp main.cpp
         Exams/arrays.cpp
         "Exams/mergeSort.cpp"
         linkedListReview.cpp
+        "Abstract Data Structures/QueueUsingArray.cpp"
 )
