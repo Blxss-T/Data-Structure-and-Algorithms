@@ -1,3 +1,9 @@
-//
-// Created by HP on 06/01/2026.
-//
+#include <iostream>
+using namespace std;
+ class Node {
+     int data;
+     Node* next;
+     Node* newNode(int value) {
+         Node* newNode= ne
+     }
+ };
