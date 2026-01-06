@@ -3,7 +3,16 @@ using namespace std;
  class Node {
      int data;
      Node* next;
-     Node* newNode(int value) {
-         Node* newNode= ne
-     }
+    Node (int value) {
+        data=value;
+        next=nullptr;
+    }
  };
+class linkedList {
+    Node* head;
+    linkedList() {
+        head=nullptr;
+
+    }
+
+}
