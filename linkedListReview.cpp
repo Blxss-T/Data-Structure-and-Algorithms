@@ -46,7 +46,11 @@ public:
         head=head->next;
         delete temp;
     }
-    void
+    void deleteAtTheEnd() {
+        if (head== nullptr) {
+            return;
+        }
+    }
     void traverseLinkedList() {
         if (head== nullptr) {
             cout<<"Is empty"<<endl;
