@@ -50,6 +50,10 @@ public:
         if (head== nullptr) {
             return;
         }
+        Node* temp=head;
+        while ( temp->next!=nullptr) {
+
+        }
     }
     void traverseLinkedList() {
         if (head== nullptr) {
