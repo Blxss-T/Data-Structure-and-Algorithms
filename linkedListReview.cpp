@@ -43,8 +43,10 @@ public:
             return;
         }
         Node* temp= head;
-        head=temp->next;
+        head=head->next;
+        delete temp;
     }
+    void
     void traverseLinkedList() {
         if (head== nullptr) {
             cout<<"Is empty"<<endl;
@@ -57,3 +59,8 @@ public:
 
     }
 };
+int main () {
+    int list[];
+
+
+}
