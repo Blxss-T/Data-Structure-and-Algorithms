@@ -20,6 +20,14 @@ void displayQueue() {
         return;
     }
     for (int i= front;i<=rear;i++) {
-        cout<<
+        cout<<qArray[i]<<" ";
     }
+    cout<<endl;
+}
+void dequeue() {
+    if (front==-1||front >rear) {
+        cout<<"Queue is empty\n";
+        return;
+    }
+    front++;
 }
