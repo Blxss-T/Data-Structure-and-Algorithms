@@ -70,4 +70,5 @@ add_executable(DSA_cpp main.cpp
         "Abstract Data Structures/QueueUsingArray.cpp"
         "queuesPersonal .cpp"
         "Abstract Data Structures/QueueUsingLinkedLists .cpp"
+        "Abstract Data Structures/Stack.cpp"
 )
