@@ -1,6 +1,6 @@
 # ninja log v6
 3	32	7803156223700794	CMakeFiles/DSA_cpp.dir/arrayFuncb.cpp.obj	83d9380261f07412
-31	1135	7895175218319733	build.ninja	62540a2400f7bc2
+31	1135	7906843105622281	build.ninja	62540a2400f7bc2
 45	156	7797005517991283	CMakeFiles/DSA_cpp.dir/Maths.cpp.obj	f4df6cdc90f0b2c7
 20	56	7797044687100876	CMakeFiles/DSA_cpp.dir/hypoth.cpp.obj	d819862bb5099c34
 11	135	7864735916309967	CMakeFiles/DSA_cpp.dir/LinkedListExercise.cpp.obj	dcefbc94f2bdba5b
