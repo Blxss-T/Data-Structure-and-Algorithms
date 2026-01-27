@@ -121,7 +121,8 @@
 				66,
 				67,
 				68,
-				69
+				69,
+				70
 			]
 		}
 	],
@@ -227,7 +228,8 @@
 				66,
 				67,
 				68,
-				69
+				69,
+				70
 			]
 		}
 	],
@@ -651,6 +653,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Abstract Data Structures/StackLinkedLists.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Abstract Data Structures/StackStringValidation.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

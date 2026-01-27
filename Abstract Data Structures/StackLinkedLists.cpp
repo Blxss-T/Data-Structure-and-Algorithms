@@ -15,18 +15,23 @@ class linkedList {
     linkedList() {
         head=nullptr;
     }
+    bool isEmpty() {
+        return head==nullptr;
+    }
 
-    void addNodeStack(int value) {
+    void push(int value) {
         Node* newNode= new Node(value);
         if (head== nullptr) {
             head=newNode;
             return;
         }
-        Node* temp=head;
-        while (temp->next!=nullptr) {
-            temp= temp->next;
-        }
-        temp->next=newNode;
+        // Node* temp=head;
+        // while (temp->next!=nullptr) {
+        //     temp= temp->next;
+        // }
+        // temp->next=newNode;
+        newNode->next=head;
+        head= newNode;
     }
 
     void pop(int val) {
@@ -34,17 +39,17 @@ class linkedList {
             cout<<"Stack underflow";
             return;
         }
-        // if (head->value==val) {
-        //     Node*temp=head;
-        //     head=head->next;
-        //     delete temp;
-        //     return;
-        // }
-        Node* temp=head;
-        while (temp->next->next!=nullptr) {
-            temp= temp->next;
+        if (head->value==val) {
+            Node*temp=head;
+            head=head->next;
+            delete temp;
+            return;
         }
-        delete temp->next;
+        // Node* temp=head;
+        // while (temp->next->next!=nullptr) {
+        //     temp= temp->next;
+        // }
+        // delete temp->next;
 
     }
 };
