@@ -1,3 +1,5 @@
-//
-// Created by HP on 23/01/2026.
-//
+#include <iostream>
+using namespace std;
+class Node {
+public:
+};
