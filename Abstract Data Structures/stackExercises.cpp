@@ -25,6 +25,12 @@ public:
             return;
         }
         arr[++topIndex]=value;
-
+    }
+    void pop() {
+        if (isEmpty()) {
+            cout<<"Stack underflow";
+            return;
+        }
+        topIndex --;
     }
 };
