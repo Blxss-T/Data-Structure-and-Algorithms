@@ -72,4 +72,5 @@ add_executable(DSA_cpp main.cpp
         "Abstract Data Structures/QueueUsingLinkedLists .cpp"
         "Abstract Data Structures/Stack.cpp"
         "Abstract Data Structures/stackExercisesArrays.cpp"
+        "Abstract Data Structures/StackLinkedLists.cpp"
 )
