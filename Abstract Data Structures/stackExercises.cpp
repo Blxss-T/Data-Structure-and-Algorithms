@@ -33,4 +33,11 @@ public:
         }
         topIndex --;
     }
+    int peek() {
+        if (isEmpty()) {
+            cout<<"Stack is empty";
+            return -1;
+        }
+        return arr[topIndex];
+    }
 };
