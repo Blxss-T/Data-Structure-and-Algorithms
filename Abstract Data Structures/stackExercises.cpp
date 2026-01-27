@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
-class Node {
-public:
+class Stack {
+private:
+    int capacity;
+    int *arr;
+    int topIndex;
 };
